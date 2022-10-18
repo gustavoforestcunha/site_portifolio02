@@ -25,3 +25,35 @@ _Entendo o que é **git**, Aprendendo sobre repositórios, Trabalhando com branc
 >Este é um blockquote, usado para destacar alguma area.
 >
 >Quebra de linha
+
+**Comando para rodar o projeto**
+
+```
+npm start
+```
+
+**Exemplo de uso do script**
+
+```js
+function showName(nome){
+    return 'Bem vindo: ' + nome;
+}
+```
+
+**Uso de HTML**
+
+```html
+<h1>
+    titulo do projeto
+    <span> Curso Git <span>
+</h1>
+```
+
+**CSS padrao do projet**
+
+```css
+.titulo{
+    background-color: #FFF;
+    color: #FF0000;
+}
+```

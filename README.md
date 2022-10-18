@@ -33,7 +33,7 @@ _Entendo o que é **git**, Aprendendo sobre repositórios, Trabalhando com branc
 >
 >Quebra de linha
 
-**Comando para rodar o projeto**
+### **Comando para rodar o projeto**
 
 ```
 npm start

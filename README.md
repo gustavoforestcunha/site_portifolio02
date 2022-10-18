@@ -8,7 +8,12 @@ Nesse curso você vai dominar todo **git** e _github._
 * Aprendendo sobre Branches
 * Git avançado
 
-_Entendo o que é **git, Aprendendo sobre repositórios, Trabalhando com branches._
+1. Começando com Git
+2. Aprendendo sobre Branches
+3. Git avançado
+
+
+_Entendo o que é **git**, Aprendendo sobre repositórios, Trabalhando com branches._
 
 ### Rede social:
 [Instagram](https://instagram.com)

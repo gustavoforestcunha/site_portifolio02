@@ -8,7 +8,10 @@ Nesse curso você vai dominar todo **git** e _github._
 * Aprendendo sobre Branches
 * Git avançado
 
-1. Começando com Git
+1. Começando com Git.
+
+        1. O que é git 
+        2. Instalando git na maquina
 2. Aprendendo sobre Branches
 3. Git avançado
 

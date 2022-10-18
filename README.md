@@ -12,6 +12,7 @@ Nesse curso você vai dominar todo **git** e _github._
 
         1. O que é git 
         2. Instalando git na maquina
+
 2. Aprendendo sobre Branches
 3. Git avançado
 
@@ -20,3 +21,7 @@ _Entendo o que é **git**, Aprendendo sobre repositórios, Trabalhando com branc
 
 ### Rede social:
 [Instagram](https://instagram.com)
+
+>Este é um blockquote, usado para destacar alguma area.
+>
+>Quebra de linha
